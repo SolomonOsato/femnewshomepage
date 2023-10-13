@@ -27,7 +27,7 @@ export default function MainContent() {
               className="uppercase w-fit text-center py-4 px-8 md:p-2 bg-primary-red text-white active:bg-neutral-vdGrayBlue tracking-[0.25em]"
               type="button"
             >
-              read more
+              read More
             </button>
           </div>
         </div>
