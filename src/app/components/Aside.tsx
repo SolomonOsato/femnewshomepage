@@ -18,7 +18,7 @@ export default function Aside() {
     },
   ];
   return (
-    <aside className="bg-neutral-vdGrayBlue text-white md:col-span-1">
+    <aside className="bg-neutral-vdGrayBlue text-white lg:col-span-1">
       <section className="grid gap-2 p-4">
         <h1 className="capitalize text-4xl text-primary-orange font-bold">
           new
