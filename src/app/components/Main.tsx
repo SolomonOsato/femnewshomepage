@@ -27,7 +27,7 @@ export default function MainContent() {
               className="w-fit text-center py-4 px-8 md:p-2 bg-primary-red text-white active:bg-neutral-vdGrayBlue capitalize rounded"
               type="button"
             >
-              read more
+              read More
             </button>
           </div>
         </div>
